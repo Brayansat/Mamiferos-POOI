@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Futbolistas
+comment1.params=
+comment1.target=Futbolistas()
+comment2.params=id\ nombre\ apellidos\ edad\ titulacion\ anosExp
+comment2.target=Futbolistas(java.lang.Integer,\ java.lang.String,\ java.lang.String,\ java.lang.Integer,\ java.lang.String,\ java.lang.Integer)
+comment3.params=
+comment3.target=java.lang.String\ getDemarcacion()
+comment4.params=demarcacion
+comment4.target=void\ setDemarcacion(java.lang.String)
+comment5.params=
+comment5.target=java.lang.Integer\ getDorsal()
+comment6.params=dorsal
+comment6.target=void\ setDorsal(java.lang.Integer)
+comment7.params=
+comment7.target=void\ jugarPartido()
+comment8.params=
+comment8.target=void\ entrenar()
+numComments=9

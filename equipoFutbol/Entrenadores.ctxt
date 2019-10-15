@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Entrenadores
+comment1.params=
+comment1.target=Entrenadores()
+comment2.params=id\ nombre\ apellidos\ edad\ idFederacion
+comment2.target=Entrenadores(java.lang.Integer,\ java.lang.String,\ java.lang.String,\ java.lang.Integer,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getIdFederacion()
+comment4.params=idFederacion
+comment4.target=void\ setIdFederacion(java.lang.String)
+numComments=5
