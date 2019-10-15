@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Subtitulo
+comment1.params=
+comment1.target=Subtitulo()
+comment2.params=comentario\ autor\ capitulo
+comment2.target=Subtitulo(java.lang.String,\ java.lang.String,\ Capitulo)
+comment3.params=
+comment3.target=java.lang.String\ getComentario()
+comment4.params=comentario
+comment4.target=void\ setComentario(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getAutor()
+comment6.params=autor
+comment6.target=void\ setAutor(java.lang.String)
+numComments=7

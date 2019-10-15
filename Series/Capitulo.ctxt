@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Capitulo
+comment1.params=
+comment1.target=Capitulo()
+comment10.params=estado
+comment10.target=void\ setEstado(java.lang.String)
+comment2.params=titulo\ duracion\ sinopsis\ estado\ critica
+comment2.target=Capitulo(java.lang.String,\ java.lang.Integer,\ java.lang.String,\ java.lang.String,\ Critica)
+comment3.params=
+comment3.target=java.lang.String\ getTitulo()
+comment4.params=titulo
+comment4.target=void\ setTitulo(java.lang.String)
+comment5.params=
+comment5.target=java.lang.Integer\ getDuracion()
+comment6.params=duracion
+comment6.target=void\ setDuracion(java.lang.Integer)
+comment7.params=
+comment7.target=java.lang.String\ getSinopsis()
+comment8.params=sinopsis
+comment8.target=void\ setSinopsis(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getEstado()
+numComments=11
