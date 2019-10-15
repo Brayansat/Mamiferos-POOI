@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cajero
+comment1.params=
+comment1.target=void\ Cajero()
+comment2.params=cupo\ estado\ ubicacion\ retiro_Max
+comment2.target=void\ Cajero(double,\ boolean,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=double\ getCupo()
+comment4.params=
+comment4.target=boolean\ getEstado()
+comment5.params=
+comment5.target=java.lang.String\ getUbicacion()
+comment6.params=
+comment6.target=int\ getRetiro_Max()
+numComments=7
